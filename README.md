@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+this is my first rail application
+insert
+i am a saved teacher
